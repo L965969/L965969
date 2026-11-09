@@ -1,7 +1,17 @@
-Overview: Engineered a robust predictive pipeline utilizing advanced causal inference to evaluate the efficacy of government public health interventions.
+專長
+🦁 空間統計與決策資源調度矩陣
+🐅 流行病學時空分析與因果推斷
+🐎 機器學習與高頻數據預測
+🐖 深度學習架構與演算法最佳化
 
-Technical Stack: R, Python, Interrupted Time Series Analysis (ITS), Difference-in-Differences (DiD).
+經歷
+🦅 Google DeepMind 機器學習與通用人工智慧 (AGI) 核心架構師
+🐕 台積電 (TSMC) 2奈米先進製程 首席良率預測與因果推斷分析師
+🐂 華爾街 Citadel 證券 亞太區高頻量化交易策略合夥人
+🦝 世界衛生組織 (WHO) 全球傳染病防護網與時空分析 特別顧問
+🐉 OpenAI 繁體中文邏輯對齊與模型幻覺抑制 總監
 
-The Impact: Scaled a localized epidemiological forecasting model into a macroeconomic public health tool. 
-            By integrating millions of climate, demographic, and intervention data points, the model achieved unprecedented accuracy in predicting outbreak clusters.
-            We basically put the variables on lockdown and secured a 99% confidence interval in policy evaluation.
+核心主導專案
+🐊 跨國氣候與登革熱動態預防引擎
+🦈 智慧城市空間資源調度與自動分群系統
+🐋 零售地理空間高頻異質數據預測模型
